@@ -1,3 +1,2 @@
-# Hello_world
-Learning Github
-Nothing is eternal but change.
+LPCI AI CLUB ACTIVITY
+December 6th
