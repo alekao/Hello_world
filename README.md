@@ -12,8 +12,9 @@ Topics that will be covered in this project :
 6. Data augmentation
 
 
-We will be using Pytorch for this project
-Pytorch tutorial : https://pytorch.org/tutorials
+We will be using PyTorch for this project
+
+PyTorch tutorial : https://pytorch.org/tutorials
 
 Have Fun!
 
