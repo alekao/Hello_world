@@ -1,7 +1,7 @@
 LPCI AI CLUB ACTIVITY
 
 Description:
-Train a face recognition neural network do attendance
+Train a face recognition neural network to do attendance
 
 Topics that will be covered in this project :
 1. Training and testing a neural network
