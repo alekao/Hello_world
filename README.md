@@ -1,2 +1,6 @@
 LPCI AI CLUB ACTIVITY
-December 6th
+
+Project :
+Do auto-attendance with face recognition
+
+
